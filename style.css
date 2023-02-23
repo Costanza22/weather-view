@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 120px;
+    background-image: url("https://viagemeturismo.abril.com.br/wp-content/uploads/2018/03/istock-615822390.jpg?quality=70&strip=info&w=1024&resize=1200,800");
+    background-repeat: no-repeat;
+    background-size: 1800px;
+}
+
+.city{
+    font-size: 32px;
+}
+
+.date {
+    font-size: 16px;
+}
+
+.container-temp{
+    display: flex;
+    justify-content: center;
+    background-color: yellowgreen;
+    box-shadow: 5px 6px gray;
+    cursor: pointer;
+
+    font-size: 100px;
+    font-weight: 900;
+    text-shadow: gray;
+}
+
+.weather{
+    font-size: 32px;
+}
+
+.low-high {
+    font-size: 22px;
+}
